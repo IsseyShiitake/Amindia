@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 26" fill="none" stroke="#C59C4D" stroke-width="1.4" stroke-linecap="round">
+  <!-- Am'India ornament — lotus-centred rule, section divider, original artwork.
+       Strokes sized for legibility at natural 220px display width on sand. -->
+  <line x1="30" y1="13" x2="190" y2="13"/>
+  <g transform="translate(110,13)">
+    <path d="M0,0 C -8,-5 -10,-13 -5,-19 C -2,-15 0,-12 0,-9 C 0,-12 2,-15 5,-19 C 10,-13 8,-5 0,0 Z"/>
+    <path d="M0,0 L0,-9" stroke-width="1"/>
+    <path d="M-9,0 C -14,-3 -16,-9 -13,-13 C -10,-10 -8,-8 -7,-6 C -7,-9 -9,-11 -11,-13 C -16,-9 -14,-3 -9,0 Z" stroke-width="1"/>
+    <path d="M9,0 C 14,-3 16,-9 13,-13 C 10,-10 8,-8 7,-6 C 7,-9 9,-11 11,-13 C 16,-9 14,-3 9,0 Z" stroke-width="1"/>
+  </g>
+  <circle cx="20" cy="13" r="2.2"/>
+  <circle cx="200" cy="13" r="2.2"/>
+  <circle cx="10" cy="13" r="1.2" fill="#C59C4D" stroke="none"/>
+  <circle cx="210" cy="13" r="1.2" fill="#C59C4D" stroke="none"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#C59C4D" stroke-width="1.1" stroke-linecap="round">
+  <!-- Am'India ornament — Mughal jali (lattice screen), seamless tile, original artwork -->
+  <defs>
+    <g id="node">
+      <circle r="7" stroke-width="1"/>
+      <circle r="2.4" fill="#C59C4D" stroke="none"/>
+      <g stroke-width=".9">
+        <line x1="0" y1="-7" x2="0" y2="-2.4"/>
+        <line x1="0" y1="7" x2="0" y2="2.4"/>
+        <line x1="-7" y1="0" x2="-2.4" y2="0"/>
+        <line x1="7" y1="0" x2="2.4" y2="0"/>
+        <line x1="-5" y1="-5" x2="-1.8" y2="-1.8"/>
+        <line x1="5" y1="-5" x2="1.8" y2="-1.8"/>
+        <line x1="-5" y1="5" x2="-1.8" y2="1.8"/>
+        <line x1="5" y1="5" x2="1.8" y2="1.8"/>
+      </g>
+    </g>
+  </defs>
+  <path d="M-60,-60 L180,180 M-60,180 L180,-60"/>
+  <path d="M60,-30 L150,60 L60,150 L-30,60 Z"/>
+  <path d="M60,10 L110,60 L60,110 L10,60 Z" stroke-width=".8"/>
+  <path d="M-30,0 L60,90 L150,0 M-30,120 L60,30 L150,120" stroke-width=".8"/>
+  <use href="#node" x="0" y="0"/>
+  <use href="#node" x="120" y="0"/>
+  <use href="#node" x="0" y="120"/>
+  <use href="#node" x="120" y="120"/>
+  <use href="#node" x="60" y="60"/>
+</svg>

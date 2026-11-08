@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#C59C4D" stroke-width="1.1" stroke-linecap="round">
+  <!-- Am'India ornament — Kashmir boteh (paisley) repeat, seamless tile, original artwork -->
+  <defs>
+    <g id="boteh">
+      <path d="M0,-27 C 9,-15 17,-2 16,11 C 15,23 7,30 -3,29 C -12,28 -17,21 -16,12 C -15,3 -8,-3 -5,-9 C -2,-15 -3,-22 0,-27 Z"/>
+      <path d="M0,-13 C 6,-6 9,3 7,12 C 6,18 1,22 -4,20 C -8,18 -9,13 -6,10 C -3,7 2,8 3,12" stroke-width=".9"/>
+      <circle cx="0" cy="-20" r="1.6" fill="#C59C4D" stroke="none"/>
+    </g>
+  </defs>
+  <use href="#boteh" x="30" y="32"/>
+  <use href="#boteh" x="90" y="32" transform="rotate(180 90 32)"/>
+  <use href="#boteh" x="90" y="88"/>
+  <use href="#boteh" x="30" y="88" transform="rotate(180 30 88)"/>
+</svg>

@@ -1,0 +1,4 @@
+# local tooling artifacts, not part of the site
+.mimosa/
+.DS_Store
+.directory

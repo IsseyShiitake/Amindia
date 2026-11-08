@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 26" fill="none" stroke="#C59C4D" stroke-width="1.1" stroke-linecap="round">
+  <!-- Am'India ornament — lotus bud frieze, seamless horizontal band, original artwork -->
+  <defs>
+    <g id="bud">
+      <path d="M0,0 C -10,-6 -13,-16 -8,-24 C -4,-19 -1,-15 0,-12 C 1,-15 4,-19 8,-24 C 13,-16 10,-6 0,0 Z"/>
+      <path d="M0,0 L0,-12" stroke-width=".8"/>
+      <path d="M-4.5,-4 C -8,-9 -9,-15 -6,-19.5" stroke-width=".7"/>
+      <path d="M4.5,-4 C 8,-9 9,-15 6,-19.5" stroke-width=".7"/>
+    </g>
+  </defs>
+  <line x1="-10" y1="24.5" x2="250" y2="24.5" stroke-width="1"/>
+  <use href="#bud" transform="translate(0,24)"/>
+  <use href="#bud" transform="translate(60,24) scale(-1,1)"/>
+  <use href="#bud" transform="translate(120,24)"/>
+  <use href="#bud" transform="translate(180,24) scale(-1,1)"/>
+  <use href="#bud" transform="translate(240,24)"/>
+  <g stroke-width=".9">
+    <path d="M30,24 C 26,18 26,12 30,7 C 34,12 34,18 30,24 Z"/>
+    <path d="M90,24 C 86,18 86,12 90,7 C 94,12 94,18 90,24 Z"/>
+    <path d="M150,24 C 146,18 146,12 150,7 C 154,12 154,18 150,24 Z"/>
+    <path d="M210,24 C 206,18 206,12 210,7 C 214,12 214,18 210,24 Z"/>
+  </g>
+  <circle cx="30" cy="3" r="1.7" fill="#C59C4D" stroke="none"/>
+  <circle cx="90" cy="3" r="1.7" fill="#C59C4D" stroke="none"/>
+  <circle cx="150" cy="3" r="1.7" fill="#C59C4D" stroke="none"/>
+  <circle cx="210" cy="3" r="1.7" fill="#C59C4D" stroke="none"/>
+</svg>

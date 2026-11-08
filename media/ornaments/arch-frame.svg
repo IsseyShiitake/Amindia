@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" fill="none" stroke="#C59C4D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Am'India ornament — Mughal ogee arch frame with lotus finial, original artwork -->
+  <path d="M14,414 L14,182 C 14,182 20,134 52,94 C 76,64 108,40 132,22 C 140,15 146,12 150,12 C 154,12 160,15 168,22 C 192,40 224,64 248,94 C 280,134 286,182 286,182 L286,414"/>
+  <path d="M28,414 L28,190 C 28,190 34,148 62,112 C 84,84 112,62 134,46 C 141,40 146,38 150,38 C 154,38 159,40 166,46 C 188,62 216,84 238,112 C 266,148 272,190 272,190 L272,414" stroke-width="1"/>
+  <path d="M40,414 L40,196 C 40,196 46,162 68,130 C 88,102 114,82 136,64" stroke-width=".8" stroke-dasharray="3 5"/>
+  <g transform="translate(150,28)">
+    <path d="M0,-26 C 6,-17 10,-8 9,-2 C 5,-6 0,-9 0,-9 C 0,-9 -5,-6 -9,-2 C -10,-8 -6,-17 0,-26 Z" stroke-width="1.6"/>
+    <circle cy="3" r="3.6" stroke-width="1.4"/>
+  </g>
+  <g stroke-width="1.2">
+    <path d="M14,182 C 22,172 30,172 38,182 C 30,192 22,192 14,182 Z"/>
+    <path d="M286,182 C 278,172 270,172 262,182 C 270,192 278,192 286,182 Z"/>
+  </g>
+  <g stroke-width=".9">
+    <circle cx="14" cy="182" r="3.2"/><circle cx="286" cy="182" r="3.2"/>
+    <circle cx="150" cy="396" r="4.2"/><circle cx="150" cy="396" r="1.5" fill="#C59C4D" stroke="none"/>
+  </g>
+</svg>
