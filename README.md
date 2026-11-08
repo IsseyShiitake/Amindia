@@ -82,3 +82,12 @@ symbolique).
   aucune requête en échec, aucune image cassée, aucun débordement,
   visionneuse filtrée (groupe = photos visibles), compteur, scrollspy,
   verrou de défilement du menu — tout vérifié.
+
+## En ligne
+
+- **https://amindia-site.pages.dev** — Cloudflare Pages (déploiement direct
+  du dossier, projet `amindia-site`, branche de production `main`).
+- Miroir GitHub : https://github.com/IsseyShiitake/Amindia (branche `main`).
+- Redéployer après une modification : `npx wrangler@latest pages deploy . --project-name amindia-site --branch main`
+  (puis `git push` pour le miroir GitHub).
+- `og:image` pointe désormais vers l’URL absolue du site en ligne.
