@@ -341,7 +341,7 @@ p:last-child { margin-bottom: 0; }
 
 /* ---------- 10. Engagement ---------- */
 .engagement-grid { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: center; }
-.engagement-media figure { margin: 0; max-width: 26rem; }
+.engagement-media figure { margin: 0 auto; max-width: 26rem; }
 .arch-frame {
   position: relative;
   display: block;
